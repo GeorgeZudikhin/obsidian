@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "aac6fab0da7604f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c121ede0cff5ffbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c62e3519c6c9290",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb4bc865e6773ad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "974779651b289878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75cb152da3fa2abb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cd0a0af0df0e5ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "91d4581061a93cb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "66a8d16854170491",
+    "type": "split",
+    "children": [
+      {
+        "id": "22caff6b458dd440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c03c361a4d42d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Weather Archive/Weather Archive Group G Documentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Weather Archive Group G Documentation"
+            }
+          },
+          {
+            "id": "fb9ae7740bcb44fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Weather Archive/Weather Archive Group G Documentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Weather Archive Group G Documentation"
+            }
+          },
+          {
+            "id": "fe8c5f58fda73389",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3aad66a2c4b55c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Weather Archive/Weather Archive Group G Documentation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Weather Archive Group G Documentation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "75cb152da3fa2abb",
+  "lastOpenFiles": [
+    "Excalidraw/End User Workflow.md",
+    "Excalidraw/Video Generation Workflow.md",
+    "The Weather Archive/Weather Archive Group G Documentation.md",
+    "Excalidraw/Webcam Upload Workflow.md",
+    "Screenshot 2025-01-07 at 22.52.51.png",
+    "Screenshot 2025-01-07 at 22.46.19.png",
+    "Pasted image 20250107223607.png",
+    "The Weather Archive/Weather Archive.md",
+    "Excalidraw",
+    "The Weather Archive/Pics/Rough sketch.png",
+    "Techy Tech/Context API.md",
+    "Unstructured/Topics to cover.md",
+    "React Router.md",
+    "Refactoring.md",
+    "Techy Tech/Subcomponents as props.md",
+    "Techy Tech/React App Project Structure.md",
+    "Techy Tech/Atomic design structure.md",
+    "Techy Tech/Feature-sliced design.md",
+    "Techy Tech/MVVM structure.md",
+    "Pics/MVVM structure.png",
+    "Pics/Atomic design structure.png",
+    "Techy Tech/Frontend.md",
+    "Techy Tech/Component-based structure.md",
+    "Pics/Component-based structure.png",
+    "Techy Tech/Feature-based structure.md",
+    "Pics/Feature-based structure.png",
+    "Unstructured/Random Shit To Do.md",
+    "Techy Tech/React.md",
+    "Techy Tech/useCallback.md",
+    "Techy Tech/React Antipatterns.md",
+    "Agile Life/2. This sprint - 06.01.md",
+    "Agile Life/1. Today.md",
+    "Agile Life/Notes/2025-01-05 Finalize SRVL Project.md",
+    "Agile Life/3. This month.md",
+    "Agile Life/Notes",
+    "Untitled.canvas",
+    "Tags",
+    "Agile Life",
+    "Techy Tech",
+    "Frontend/Tailwind",
+    "Frontend/React",
+    "Frontend",
+    "The Weather Archive/Pics/Lambda breakdown.png",
+    "The Weather Archive/Pics",
+    "The Weather Archive",
+    "Pics/GraphQL Pic.png"
+  ]
+}
