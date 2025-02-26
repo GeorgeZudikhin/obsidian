@@ -1,0 +1,7 @@
+- Learn how to dance
+- Fast typing: keyboard efficiency
+- Complete keyboard navigation: for the main mac, monitor switching etc
+- SWARC notes from Rus
+- Set up ID Austria
+- Study US immigration links from dad
+- Rus from telegram: scrollable custom hook

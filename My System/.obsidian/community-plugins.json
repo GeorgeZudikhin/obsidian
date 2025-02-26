@@ -2,6 +2,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-icon-folder",
-  "obsidian-full-calendar",
-  "dataview"
+  "dataview",
+  "obsidian-smart-typography",
+  "obsidian-tasks-plugin",
+  "obsidian-full-calendar"
 ]

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c121ede0cff5ffbd",
+        "id": "aa16f375a9ea00e2",
         "type": "tabs",
         "children": [
           {
-            "id": "9c62e3519c6c9290",
+            "id": "5d747fd9f036c379",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3. Techy Tech/DevOps & Cloud/Terraform/Meta-Argument \"for_each\".md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Meta-Argument \"for_each\""
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "calen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Weather Archive/Weather Archive Group G Documentation.md",
-                "collapseAll": false,
+                "file": "1. Agile Life/2. This sprint - 19.01.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Weather Archive Group G Documentation"
+              "title": "Backlinks for 2. This sprint - 19.01"
             }
           },
           {
@@ -161,53 +165,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "75cb152da3fa2abb",
+  "active": "5d747fd9f036c379",
   "lastOpenFiles": [
-    "Excalidraw/End User Workflow.md",
-    "Excalidraw/Video Generation Workflow.md",
-    "The Weather Archive/Weather Archive Group G Documentation.md",
-    "Excalidraw/Webcam Upload Workflow.md",
-    "Screenshot 2025-01-07 at 22.52.51.png",
-    "Screenshot 2025-01-07 at 22.46.19.png",
-    "Pasted image 20250107223607.png",
-    "The Weather Archive/Weather Archive.md",
+    "3. Techy Tech/DevOps & Cloud/Terraform/Variable Lists, Maps, Meta-Argument \"Count\".md",
+    "3. Techy Tech/DevOps & Cloud/Terraform/toset, tomap.md",
+    "3. Techy Tech/DevOps & Cloud/Terraform/Meta-Argument \"for_each\".md",
+    "3. Techy Tech/DevOps & Cloud/Terraform/Outputs with For Loop & Splat Operator.md",
+    "3. Techy Tech/DevOps & Cloud/Terraform/Terraform.md",
+    "2. Current Endeavors/3. Tech Knowledge Gathering/Tech knowledge gathering.md",
+    "2. Current Endeavors/2. Bachelor Thesis/Pipeline design.md",
+    "Head-First OOA&D.md",
+    "4. Resources/Books/Books Reading List.md",
+    "3. Techy Tech/DevOps & Cloud/Terraform/Blocks.md",
+    "3. Techy Tech/DevOps & Cloud/Terraform/Data Sources.md",
+    "2. Current Endeavors/2. Bachelor Thesis/Second meet w Recep Balibey.md",
+    "2. Current Endeavors/2. Bachelor Thesis/First meet w Recep Balibey.md",
+    "2. Current Endeavors/2. Bachelor Thesis/Prerequisites.md",
     "Excalidraw",
-    "The Weather Archive/Pics/Rough sketch.png",
-    "Techy Tech/Context API.md",
-    "Unstructured/Topics to cover.md",
-    "React Router.md",
-    "Refactoring.md",
-    "Techy Tech/Subcomponents as props.md",
-    "Techy Tech/React App Project Structure.md",
-    "Techy Tech/Atomic design structure.md",
-    "Techy Tech/Feature-sliced design.md",
-    "Techy Tech/MVVM structure.md",
-    "Pics/MVVM structure.png",
-    "Pics/Atomic design structure.png",
-    "Techy Tech/Frontend.md",
-    "Techy Tech/Component-based structure.md",
-    "Pics/Component-based structure.png",
-    "Techy Tech/Feature-based structure.md",
-    "Pics/Feature-based structure.png",
-    "Unstructured/Random Shit To Do.md",
-    "Techy Tech/React.md",
-    "Techy Tech/useCallback.md",
-    "Techy Tech/React Antipatterns.md",
-    "Agile Life/2. This sprint - 06.01.md",
-    "Agile Life/1. Today.md",
-    "Agile Life/Notes/2025-01-05 Finalize SRVL Project.md",
-    "Agile Life/3. This month.md",
-    "Agile Life/Notes",
+    "5. To Dos/Tech topics.md",
+    "5. To Dos/Shit To Do.md",
+    "BP Anrechnung.md",
+    "Blutdruck.md",
+    "Meiko.md",
+    "3. Techy Tech/DevOps & Cloud/DevOps & Cloud.md",
+    "3. Techy Tech/Frontend/React/React App Project Structure/Feature-based structure.md",
+    "3. Techy Tech/Frontend/React/React App Project Structure/Atomic design structure.md",
+    "3. Techy Tech/Frontend/React/React App Project Structure.md",
+    "3. Techy Tech/Frontend/React/React App Project Structure",
+    "3. Techy Tech/DevOps & Cloud/Terraform",
+    "3. Techy Tech/Tech.md",
+    "3. Techy Tech/Frontend/Frontend.md",
+    "3. Techy Tech/DevOps & Cloud",
+    "4. Resources/Courses/Udemy Courses List.md",
+    "2. Current Endeavors/5. Health Optimization",
+    "2. Current Endeavors/4. LeetCode",
+    "2. Current Endeavors/3. Tech Knowledge Gathering",
+    "2. Current Endeavors/2. Bachelor Thesis",
+    "2. Current Endeavors/1. OpenShift EX288",
     "Untitled.canvas",
-    "Tags",
-    "Agile Life",
-    "Techy Tech",
-    "Frontend/Tailwind",
-    "Frontend/React",
-    "Frontend",
-    "The Weather Archive/Pics/Lambda breakdown.png",
-    "The Weather Archive/Pics",
-    "The Weather Archive",
-    "Pics/GraphQL Pic.png"
+    "2. Current Endeavors",
+    "6. Archive/Pics/Compute as Glue Pic.png",
+    "6. Archive/Pics/Component-based structure.png",
+    "6. Archive/Pics/Command Pattern Pic.png",
+    "6. Archive/Pics/Atomic design structure.png",
+    "6. Archive/FH BS Informatik/5th sem/Rechnungswesen/Pic/Pasted image 20250115235636.png",
+    "6. Archive/FH BS Informatik/5th sem/Rechnungswesen/Pic/Pasted image 20250115235630.png",
+    "6. Archive/FH BS Informatik/5th sem/Rechnungswesen/Pic/Pasted image 20250115235622.png",
+    "6. Archive/FH BS Informatik/5th sem/Rechnungswesen/Pic/Pasted image 20250115235608.png",
+    "6. Archive/FH BS Informatik/5th sem/Rechnungswesen/Pic/Pasted image 20250115235552.png",
+    "6. Archive/FH BS Informatik/5th sem/Rechnungswesen/Pic/Pasted image 20250115220814.png"
   ]
 }
